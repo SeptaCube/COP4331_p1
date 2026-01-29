@@ -13,7 +13,7 @@ Echojo: Backend/ API stuff
 
 * Erik Mayes: **Project Manager:**  
 * **Frontend:** HTML5, CSS3, JavaScript       ---Erik Mayes & Chase Freckmann---
-* **Backend:** PHP (API endpoints)            ---Benjamin Prins & William Douglas---
+* **Backend:** PHP (API endpoints)            ---Benjamin Prins & William Douglass---
 * **Database:** MySQL (Relational DB)         ---Lincoln Huber---
 * **Server:** Apache (running on Ubuntu/DigitalOcean)    ---Emmanuel Michel---
 
