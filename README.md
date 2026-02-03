@@ -1,15 +1,10 @@
 # COP4331 Project 1 - LAMP Stack Contact Manager
 
 ## Overview
-This is a web-based contact management application (or "Color Manager" for the demo) built using the **LAMP Stack** (Linux, Apache, MySQL, PHP). It allows users to register, log in, add items, and search through their saved records.
+This is a web-based contact management application (or "Contacts Manager" for the demo) built using the **LAMP Stack** (Linux, Apache, MySQL, PHP). It allows users to register, log in, add items, and search through their saved records.
 
 ## Tech Stack with Assignments
 
-Me: Database 
-Chase: front end
-Erik: PM
-Echojo: Backend/ API stuff
-@Benjamin are you ok with being the second guy on the front end or API?
 
 * **Project Manager:**                                    ---Erik Mayes---
 * **Frontend:** HTML5, CSS3, JavaScript                   ---Erik Mayes & Chase Freckmann---
