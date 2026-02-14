@@ -451,6 +451,22 @@ body
 {
     font-size: 30px;
 }
+#registerFirstName
+{
+    font-size: 30px;
+}
+#registerLastName
+{
+    font-size: 30px;
+}
+#registerLogin
+{
+    font-size: 30px;
+}
+#registerPassword
+{
+    font-size: 30px;
+}
 #searchText
 {
     font-size: 30px;
@@ -621,3 +637,4 @@ h4 {
     color: #000000; 
 
 }
+
