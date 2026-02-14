@@ -66,12 +66,15 @@ function doLogin()
 
 function doRegister()
 {
+	document.getElementById("registerResult").innerHTML = "test";
+	return;
+	
 	let firstName = document.getElementById("registerFirstName").value;
 	let lastName = document.getElementById("registerLastName").value;
 	let login = document.getElementById("registerLogin").value;
 	let password = document.getElementById("registerPassword").value
 
-	document.getElementById("loginResult").innerHTML = "";
+	document.getElementById("registerResult").innerHTML = "";
 
 	if (firstName == "" || lastName == "" || login == "" || password == "")
 	{
@@ -244,4 +247,5 @@ function searchColor()
 	}
 	
 }
+
 
